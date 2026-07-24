@@ -32,8 +32,8 @@ playfabCache = {}
 muteCache = {}
 valid_host = None
 
-SuccessfulAuthy = ""
-FailedAuthy = ""
+SuccessfulAuthy = "https://discord.com/api/webhooks/1530095303410319420/d-Mna9XMZu-RQp-TZLdC62LUUWEXDBBWInG6HSepYJYUWm-TNnX3VTYfoCaJjS5-O-gk"
+FailedAuthy = "https://discord.com/api/webhooks/1530095381827031171/HY_pIDzY0_aW9FibNCRjsEUwz5wlzBOqBThocVGHXp4w-PF-DY75J11Lx4T-1x3DtnCg"
 
 # Stores issued attestation nonces -> issued_at timestamp (unix seconds)
 # Used to prevent replay attacks - each nonce can only be used once
