@@ -681,7 +681,7 @@ def titledata():
         "GorillanalyticsChance": 4320,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "MOTD": "<color=white>WELCOME TO KITTY TAG</color>  <color=blue>HAVE FUN, ALSO CREDITS TO HATRED FOR THE BUTTONS!</color>  <color=orange>HARMONY AND COBB ARE THE OWNERS.</color>  <color=red>PLEASE BE RESPECTFUL, AND ALSO IM SORRY FOR WHO I WAS BACK THEN - HARMONY.DLL</color>  <color=yellow>IF YOU ENJOY THE GAME, PLEASE GIVE IT  (5 STARS)!</color> <color=yellow>discord.gg/9GATxf6G64</color>",
+        "MOTD": "<color=white>WELCOME TO KITTY TAG</color>  <color=blue>HAVE FUN, ALSO CREDITS TO HATRED FOR THE BUTTONS!</color>  <color=orange>OWNERS : AURORA AND BOMII</color>  <color=red>PLEASE BE RESPECTFUL.</color>  <color=yellow>IF YOU ENJOY THE GAME, PLEASE GIVE IT  (5 STARS)!</color> <color=yellow>discord.gg/9GATxf6G64</color>",
         "SeasonalStoreBoardSign": "<color=#ff7241>FALL!</color>",
         "TOS_2024.09.20": "discord.gg/VKFuNbHvtH",
         "TOBAlreadyOwnCompTxt": "discord.gg/9GATxf6G64",
